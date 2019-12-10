@@ -1,0 +1,6 @@
+1 finish COMP 2503 assignment 1
+2 pay overdue MasterCard bill
+12 do laundry
+3 drink
+-2 buy groceries
+1 make dentist appointment
